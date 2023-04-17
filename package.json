@@ -1,7 +1,7 @@
 {
   "name": "eslint-plugin-smwd",
   "version": "0.0.0",
-  "description": "A set of custom eslint ruand created by Sterling Mayles ",
+  "description": "A set of custom eslint rules created by Sterling May",
   "keywords": [
     "eslint",
     "eslintplugin",

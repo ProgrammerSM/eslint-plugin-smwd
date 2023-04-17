@@ -1,6 +1,6 @@
 # eslint-plugin-smwd
 
-A set of custom eslint ruand created by Sterling Mayles 
+A set of custom eslint rules created by Sterling May
 
 ## Installation
 
